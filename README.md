@@ -24,3 +24,33 @@ The next lab will be based on the following expectations. Please ensure that you
 1. You must be able to use methods `System.out.print()`, `System.out.println()`, and `System.out.printf()` to write the standard output.
 1. You must be able to use the control statements.
 1. You must be able to solve the basic exercises of HLPL1, handling the three common input formats: https://github.com/INBPA0211L/notes-2024/blob/main/week-03/README.md
+
+#### Codes
+
+See in Moodle.
+
+---
+
+### Topic `A2`
+
+Defining classes. Defining fields. Overriding methods inherited from the `Object` class. Defining constructors. Visibilities. Reading and writing the `stdin` and the `stdout` in CSV format.
+
+#### Notes
+
+1. [`A201` - OO Basics #1](A201-oo-basics-1.md)
+
+#### Highlights
+
+The next lab will be based on the following expectations. Please ensure that you are aware of all the skills mentioned. Ask your questions using the available Q&A form in Moodle:
+
+1. You must be able to define a top-level class.
+1. You must be able to define instance-level fields.
+1. You must be understand the visibility levels.
+1. You must be able to define constructors.
+1. You must be able to override the `toString()` method.
+1. You must be able to override the `equals()` and the `hashCode()` methods.
+1. You must be able to compare two objects using the `equals()` or `Objects.equal()` methods.
+1. You must be able to generate *getter* and *setter* methods.
+1. You must be able to read CSV documents from the standard input.
+1. You must be able to look for a method's behavior in the JavaDoc using Google.
+1. You must be able to convert between types `String`, `int`, and `double`.
