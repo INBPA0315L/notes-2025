@@ -54,3 +54,24 @@ The next lab will be based on the following expectations. Please ensure that you
 1. You must be able to read CSV documents from the standard input.
 1. You must be able to look for a method's behavior in the JavaDoc using Google.
 1. You must be able to convert between types `String`, `int`, and `double`.
+
+---
+
+### Topic `A3`
+
+Implementing the `Comparable` interface. Creating, populating, and sorting 1D arrays. Using the `final` keyword on fields and variables. Primitive vs. reference arrays. Using command-line arguments. Reading, sorting, and writing the `stdin` and the `stdout` in CSV format.
+
+#### Notes
+
+1. [`A301` - OO Basics #2](A301-oo-basics-2.md)
+
+#### Highlights
+
+The next lab will be based on the following expectations. Please ensure that you are aware of all the skills mentioned. Ask your questions using the available Q&A form in Moodle:
+
+1. You must be able to provide, access and process the command-line arguments.
+1. You must be able to instantiate, populate, and process 1D arrays.
+1. You must be able to compare two primitives using the static comparison methods.
+1. You must be able to compare two comparable objects using their `compareTo()` methods.
+1. You must be able to make your type comparable by defining its natural order using the `Comparable` interface.
+1. You must be able to sort array using the `Arrays.sort()` method.
