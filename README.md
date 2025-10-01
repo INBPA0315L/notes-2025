@@ -75,3 +75,23 @@ The next lab will be based on the following expectations. Please ensure that you
 1. You must be able to compare two comparable objects using their `compareTo()` methods.
 1. You must be able to make your type comparable by defining its natural order using the `Comparable` interface.
 1. You must be able to sort array using the `Arrays.sort()` method.
+
+---
+
+### Topic `B1`
+
+Inheritance. Using the `final` keyword on methods and classes. Implementing the `Comparator` interface. Defining more top-level classes in the same source code.
+
+#### Notes
+
+1. [`B101` - Inheritance](B101-inheritance.md)
+1. [`B102` - Implementing the `Comparator` interface #1](B102-comparator-1.md)
+
+#### Highlights
+
+The next lab will be based on the following expectations. Please ensure that you are aware of all the skills mentioned. Ask your questions using the available Q&A form in Moodle:
+
+1. You must be able to derive a class.
+1. You must be able to use the `final` keyword on methods and classes.
+1. You must be able to implement the `Comparator` interface.
+1. You must be able to define multiple top-level classes.
