@@ -85,7 +85,7 @@ Inheritance. Using the `final` keyword on methods and classes. Implementing the 
 #### Notes
 
 1. [`B101` - Inheritance](B101-inheritance.md)
-1. [`B102` - Implementing the `Comparator` interface #1](B102-comparator-1.md)
+1. [`B102` - Implementing the `Comparator` interface #1](B102-comparator.md)
 
 #### Highlights
 
