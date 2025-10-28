@@ -95,3 +95,59 @@ The next lab will be based on the following expectations. Please ensure that you
 1. You must be able to use the `final` keyword on methods and classes.
 1. You must be able to implement the `Comparator` interface.
 1. You must be able to define multiple top-level classes.
+
+---
+
+### Topic `B2`
+
+Defining nested, static nested, and anonymous classes. Enum classes.
+
+#### Notes
+
+1. [`B201` - Implementing the `Comparator` interface #2](B201-comparator-2.md)
+1. [`B202` - Enums](B202-enums.md)
+
+#### Exercises
+
+1. [`P20511` - Airports (`B2`, version #1)](./exercises/P205/P20511.md)
+1. [`P20512` - Airports (`B2`, version #2)](./exercises/P205/P20512.md)
+1. [`P20513` - Airports (`B2`, version #3)](./exercises/P205/P20513.md)
+1. [`P20521` - Roller Coasters (`B2`, version #1)](./exercises/P205/P20521.md)
+1. [`P20522` - Roller Coasters (`B2`, version #2)](./exercises/P205/P20522.md)
+1. [`P20523` - Roller Coasters (`B2`, version #3)](./exercises/P205/P20523.md)
+
+#### Highlights
+
+The next lab will be based on the following expectations. Please ensure that you are aware of all the skills mentioned. Ask your questions using the available Q&A form in Moodle:
+
+1. You must be able to define and instantiate nested classes.
+1. You must be able to define and instantiate static nested classes.
+1. You must be able to define and instantiate anonymous classes.
+1. You must be able to define and use enum classes.
+
+---
+
+### Topic `B3`
+
+Static methods, static fields, named constants. File handling. Exception handling.
+
+#### Notes
+
+1. [`B301` - Exceptions and files](B301-exceptions-and-files.md)
+
+#### Exercises
+
+1. [`P2B3E01` - Airports (`B3`)](./exercises/P2B3/P2B3E01.md)
+1. [`P2B3E02` - Roller Coasters (`B3`)](./exercises/P2B3/P2B3E02.md)
+1. [`P2B3E03` - LEGO Sets (`B3`)](./exercises/P2B3/P2B3E03.md)
+
+#### Highlights
+
+The next lab will be based on the following expectations. Please ensure that you are aware of all the skills mentioned. Ask your questions using the available Q&A form in Moodle:
+
+1. You must understand the hierarchy of exceptions.
+1. You must be able to use the blocks `try`, `catch`, and `finally` to handle the required types of exceptions.
+1. You must be able to use the `throws` and `throw` keywords.
+1. You must be able to define a custom exception type.
+1. You must be able to read and write textfiles.
+1. You must be able to use the *try with resources* construct.
